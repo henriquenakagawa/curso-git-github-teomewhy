@@ -1,3 +1,5 @@
 ls  -> lista arquivos
 cd  -> move entre diretótios
 pwd -> mostra diretório de trabalho
+cat -> exibe conteúdo do arquivo
+rm  -> remove arquivo ou diretório
