@@ -5,3 +5,5 @@ cat -> exibe conteúdo do arquivo
 rm  -> remove arquivo ou diretório
 
 fodase
+
+fodase2
